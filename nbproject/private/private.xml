@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/QLNS_VinaMilk/src/TimKiem/frmTimKiem.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/TimKiem/timKiemCC.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/NhanVien/NhanVienDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/BangChamCong/IBangChamCongDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/ConnectDatabase/DBConnect.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/BangChamCong/frmBangChamCong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/Luong/ILuongDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/Phongban/PhongbanDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/HopDong/HopDong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/MucKhenThuong/MucKhenThuong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/Luong/Luong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/ChucVu/frmChucVu.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/HopDong/frmHopDong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/Luong/frmLuong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/ConnectDatabase/TestConnect.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/TimKiem/TimKiem.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/BangChamCong/BangChamCong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/HopDong/IHopDongDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/BangChamCong/BangChamCongDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/HopDong/HopDongDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/MAIN/Thongtinnhanvien_NV.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/Luong/LuongDAO.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/MucKhenThuong/frmMucKhenThuong.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/ChucVu/ChucVu.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/NhanVien/frmNhanVien.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/Phongban/frmPhongban.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/MAIN/frmLogin.java</file>
+            <file>file:/D:/java/QLNS_VinaMilk/src/MAIN/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
