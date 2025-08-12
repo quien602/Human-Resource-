@@ -1,4 +1,4 @@
-<img width="592" height="503" alt="image" src="https://github.com/user-attachments/assets/97c2e44e-9ff3-4188-872a-5820a0985e37" /># Human-Resource-
+# Human-Resource-
 Login system with user role permissions (Employee, HR, Management) and error handling for invalid or missing inputs.
 Homepage featuring quick-access buttons and menus for management, search, and logout.
 Data management: Employees, Departments, Positions, Rewards, Contracts, Attendance, and Salaries (view, add, edit, delete, refresh).
